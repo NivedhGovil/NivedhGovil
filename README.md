@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student who is interested in multiple projects in the technology sector. I'm looking for help learning Python and would like help with how to use AI and ML to work better. I'm also passionate about science and math, and ask me a doubt whenever you need help!
+I am a student who is interested in multiple projects which use technology. I'm looking for help learning Python and other coding languages. I would also like to know how to use AI and ML to work better. I'm also passionate about science and math, and ask me a doubt whenever you need help! My repositories will give you ideas on different projects you can create and al of them are fun and interactive. 
 
 
 ## 🌐 Socials:
