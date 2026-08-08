@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student who is interested in multiple projects which use technology. I'm looking for help learning Python and other coding languages. I would also like to know how to use AI and ML to work better. I'm also passionate about science and math, and ask me a doubt whenever you need help! My repositories will give you ideas on different projects you can create and all of them are fun and interactive. 
+I am Nivedh Govil, a student who is interested in multiple projects which use technology. I'm looking for help learning Python and other coding languages. I would also like to know how to use AI and ML to work better. I'm also passionate about science and math, and ask me a doubt whenever you need help! My repositories will give you ideas on different projects you can create and all of them are fun and interactive. 
 
 
 ## 🌐 Socials:
@@ -12,4 +12,4 @@ I am a student who is interested in multiple projects which use technology. I'm 
 ![](https://streak-stats.demolab.com/?user=NivedhGovil&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NivedhGovil&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
