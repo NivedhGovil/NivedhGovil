@@ -4,7 +4,7 @@ I am Nivedh Govil, a student who is interested in multiple projects which use te
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nivedh.govil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nivedhgovil) 
-[Slack ](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/slack-d42tye621ggx31zx91tef.png/slack-js5y1d27vwlwgzj1dsal.png?_a=DATAiZAAZAA0)(ID: nivedh.govil)
+
 
 
 # 💻 Tech Stack:
