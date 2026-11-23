@@ -15,8 +15,8 @@ I am Nivedh Govil, a student who is interested in multiple projects which use te
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NivedhGovil&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<img width="512" height="512" alt="gustavorezende-newton-1119_512" src="https://github.com/user-attachments/assets/c95db49c-0983-486b-bd6a-1576b9d3e726" />
-
-<img width="281" height="512" alt="locadiozafra-engine-26385_512" src="https://github.com/user-attachments/assets/3bb24779-5e7d-4b11-aba5-f7ae1f4c64bf" />
-
-<img width="1040" height="1040" alt="avedeto-pixel-art-12601" src="https://github.com/user-attachments/assets/ee077098-4fcb-4f2a-aa54-e0c8f46f8ffe" />
+<img width="300" height="512" alt="gustavorezende-newton-1119_512" src="https://github.com/user-attachments/assets/c95db49c-0983-486b-bd6a-1576b9d3e726" />
+<br> 
+<img width="300" height="512" alt="locadiozafra-engine-26385_512" src="https://github.com/user-attachments/assets/3bb24779-5e7d-4b11-aba5-f7ae1f4c64bf" />
+<br> 
+<img width="300" height="512" alt="avedeto-pixel-art-12601" src="https://github.com/user-attachments/assets/ee077098-4fcb-4f2a-aa54-e0c8f46f8ffe" />
